@@ -3,11 +3,7 @@
 ---
 
 ## 👀 About Me  
-- 🤖 Passionate about **AI, Embedded Systems & Full-Stack Development**  
-- 🌿 Contributing to **AyuBarter** – an AI-powered Ayurvedic consultation & barter ecosystem  
-- 🔧 Experienced with **microcontrollers, debugging, and real-time embedded applications**  
-- 💡 Strong interest in **AI/ML, healthcare systems, and scalable digital solutions**
-
+I’m a developer passionate about AI, Embedded Systems, and full-stack development. I love building solutions that blend smart software with real-world hardware, especially in healthcare and AI-driven platforms. Currently, I’m contributing to AyuBarter and exploring ways to create meaningful, scalable digital products.
 ---
 
 ## 📚 Currently Learning  
